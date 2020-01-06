@@ -1,4 +1,9 @@
-Rapsodie Landing Page developed with ReactJS and Redux
+Start your project fast with this simple boilerplate
+
+React hooks
+Redux Hooks
+Ready for Github page
+Ready for Heroku
 
 ## HOW TO INSTALL
 
